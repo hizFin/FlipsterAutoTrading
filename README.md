@@ -1,0 +1,1 @@
+# flipster_auto_trading
