@@ -1,1 +1,1 @@
-# flipster_auto_trading
+# FlipsterAutoTrading
