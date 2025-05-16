@@ -36,6 +36,7 @@ tradeQuantityInputMask = None  # 거래수량입력마스크
 num = None  # 현재가
 
 
+
 # setInterval
 def set_interval(func, sec):
     global t
